@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from copy import deepcopy
 
-from CryptoBotFinRLA.finrlB.marketdata.yahoodownloader import YahooDownloader
+from finrl.marketdata.yahoodownloader import YahooDownloader
 from CryptoBotFinRLA.finrlB.config import config
 
 
